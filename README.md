@@ -17,7 +17,6 @@ An AI-powered wardrobe manager built with Python and Streamlit.
 ```bash
 git clone <repo>
 
-cd ClosetAtelier
 ```
 
 Create a `.env` file.
