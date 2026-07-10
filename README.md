@@ -34,7 +34,7 @@ streamlit run app.py
 ## Project Structure
 
 ```
-ClosetAtelier/
+WardrobeIQ/
 │
 ├── app.py
 ├── classifier.py
@@ -44,7 +44,7 @@ ClosetAtelier/
 ├── constants.py
 ├── requirements.txt
 ├── .env
-└── data/
+└── data/wardrobe.json
 ```
 
 ## Technologies
