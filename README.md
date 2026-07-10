@@ -1,4 +1,4 @@
-# Closet Atelier
+# WardrobeIQ
 
 An AI-powered wardrobe manager built with Python and Streamlit.
 
